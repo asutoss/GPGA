@@ -1,0 +1,22 @@
+.container{
+    background-color: lightgoldenrodyellow;
+    height:100%;
+    .UserName{
+        input{
+            width:500px;
+            height: 20px;
+            padding: 5px;
+            margin:2px;
+            margin-left: 5px;
+        }
+        font-size:15px;
+    }
+    .submit{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100px;
+        height: 30px;
+        font-size: 20px;
+        background-color: lightgray;
+    }
+}

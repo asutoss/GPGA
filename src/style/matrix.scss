@@ -1,0 +1,22 @@
+.mat{
+    // background-color: lightgoldenrodyellow;
+    background-color: lightblue;
+    width: 60%;
+    height: 70%;
+    float:left;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.Options{
+    width: 40%;
+    background-color: lightgrey;
+    float: right;
+    text-align: center;
+    padding-bottom : 30px;
+
+    .tile{
+        width: 50%;
+    }
+}
